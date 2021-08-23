@@ -21,7 +21,6 @@ It was originally designed in Hebrew but one should be able to change the Hebrew
 
 I personally do non-Git installations directly from a shell by calling `install.sh` (after **`cd` WEBSITE DIRECTORY**) and then expanding variables in the backend directory files and in HTML directory homepage.php file.
 
-
 ## Notes
 
 * One might want to ensure that any PHP file is not accessible by a browser, to prevent an hardcoded email address from being leaked to spambots
