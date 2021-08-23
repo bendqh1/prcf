@@ -5,4 +5,3 @@ rm -rf prcf-main &&
 curl -L -O https://github.com/bendqh1/prcf/archive/main.zip &&
 unzip main.zip &&
 rm main.zip
-# Edit variables in backend directory files and in HTML directory homepage.php file.
