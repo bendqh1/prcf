@@ -19,7 +19,8 @@ It was originally designed in Hebrew but one should be able to change the Hebrew
 
 ## Installation
 
-I personally do non-Git installations directly from a shell by calling `install.sh` (after **`cd` WEBSITE DIRECTORY**) and then expanding variables in `contact_form.php`.
+I personally do non-Git installations directly from a shell by calling `install.sh` (after **`cd` WEBSITE DIRECTORY**) and then expanding variables in the backend directory files and in HTML directory homepage.php file.
+
 
 ## Notes
 
