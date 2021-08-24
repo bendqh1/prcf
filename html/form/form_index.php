@@ -4,11 +4,11 @@
 		<title>יצירת קשר:טופס</title>
 		<meta charset="utf-8">
 		<?php
-			include 'variables.php';
+			include '../misc/variables.php';
 		?>
 	</head>
 	<body>
-		<form dir="rtl" lang="he" action="../backend/contact_form.php" method="POST">
+		<form dir="rtl" lang="he" action="../../backend/form.php" method="POST">
 			<div class="prcf_container">
 				<?php
 					include 'form_header.php';
