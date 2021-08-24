@@ -8,9 +8,9 @@
 	<body>
 		<div class="generally_every_field">
 			<?php
-				include '1_form_header.php';
-				include '1_form_middle.php';
-				include '1_form_footer.php';
+				include '1_success_header.php';
+				include '1_success_middle.php';
+				include '1_success_footer.php';
 			?>
 		</div>
 	</body>
