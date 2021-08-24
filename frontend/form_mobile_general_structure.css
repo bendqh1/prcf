@@ -71,17 +71,15 @@
 	}
 
 	.prcf_finalization_buttons {
+		display: block;
 		width: 100%;
 		padding: 10px;
+		text-align: center;
 		border: 2px solid #000;
 		border-radius: 25px;
 		background-color: green;
 		font-weight: bold;
 		color: #fff;
-	}
-
-	.prcf_finalization_buttons a {
-		display: block;
 	}
 
 	.prcf_finalization_buttons:focus {
