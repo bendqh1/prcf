@@ -70,7 +70,7 @@
 		padding: 25px 0 0 0;
 	}
 
-	.prcf_finalization_buttons {
+	.prcf_finalization_buttons * {
 		width: 100%;
 		padding: 10px;
 		border: 2px solid #000;
