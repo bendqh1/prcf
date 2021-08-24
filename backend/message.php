@@ -3,15 +3,15 @@
 		<html>
 			<head>
 				<style>
-				* {
-					font-size: 20px;
-				}
-				a {
-					unicode-bidi: plaintext !important;
-				}
-				.form_output_col_1 {
-					font-weight: bold;
-				}
+					* {
+						font-size: 20px;
+					}
+					a {
+						unicode-bidi: plaintext !important;
+					}
+					.form_output_col_1 {
+						font-weight: bold;
+					}
 				</style>
 			</head>
 			<body dir="rtl" style="text-align: right;">
