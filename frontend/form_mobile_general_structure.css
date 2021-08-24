@@ -19,15 +19,15 @@
   border-radius: 25px;
 }
 
-.prcf_item label {
+.prcf_label {
   font-weight: bold;
 }
 
-.prcf_item:after {
+.prcf_label:after {
   content:":";
 }
 
-.prcf_item .required {
+.prcf_required {
   color: red;
 }
 
