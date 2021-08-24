@@ -70,7 +70,7 @@
 		padding: 25px 0 0 0;
 	}
 
-	#prcf_input_submit_button {
+	.prcf_finalization_buttons {
 		width: 100%;
 		padding: 10px;
 		border: 2px solid #000;
@@ -80,16 +80,16 @@
 		color: #fff;
 	}
 
-	#prcf_input_submit_button:focus {
+	.prcf_finalization_buttons:focus {
 		color: #fff;
 	}
 
-	#prcf_input_submit_button:hover {
+	.prcf_finalization_buttons:hover {
 		background-color: lime;
 		color: #000;
 	}
 
-	#prcf_input_submit_button:active {
+	.prcf_finalization_buttons:active {
 		background-color: green;
 		color: #fff;
 	}
