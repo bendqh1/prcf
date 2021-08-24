@@ -1,3 +1,3 @@
-<div id="prcf_form_footer">
+<div class="prcf_footers">
 	<input type="submit" value="שליחה" class="prcf_finalization_buttons"></input>
 </div>
