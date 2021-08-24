@@ -10,7 +10,7 @@
                 <span><label for="prcf_input_topic" id="prcf_label_topic" class="prcf_label">פנייה בנושא</label></span><span class="prcf_required">*</span>
                 <select name="topic" id="prcf_input_topic" class="prcf_item">
                     <option value="שיעור פרטי בקידום אתרים">שיעור פרטי בקידום אתרים</option>
-                    <option value="שיעור פרטי בבניית אתרים">שיעור פרטי בהקמת אתרים</option>
+                    <option value="שיעור פרטי בבניית אתרים">שיעור פרטי בבניית אתרים</option>
                     <option value="אחר">אחר</option>
                 </select> <!-- required property-->
             </div>
