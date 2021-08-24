@@ -2,7 +2,6 @@
 <html>
 	<head>
 		<title>יצירת קשר:טופס</title>
-		<meta charset="utf-8">
 		<?php
 			include '../misc/assets.php';
 		?>
