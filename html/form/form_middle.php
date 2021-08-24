@@ -1,4 +1,4 @@
-<div id="prcf_form_middle">
+<div class="prcf_middles">
 	<?php
 		include 'components/form_middle_1.php';
 		include 'components/form_middle_2.php';
