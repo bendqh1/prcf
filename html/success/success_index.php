@@ -20,9 +20,7 @@
 			</div>
 
 			<div id="prcf_success_footer">
-				<?php
-					include '../misc/homepage.php';
-				?>
+				<a href="https://example.com" id="prcf_homepage">חזרה לדף הבית</a>
 			</div>
 		</div>
 	</body>
