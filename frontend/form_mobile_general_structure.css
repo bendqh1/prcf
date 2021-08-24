@@ -21,7 +21,7 @@
 
 /* Headers */
 
-	#prcf_form_header {
+	#prcf_headers {
 		padding: 0 0 25px 0;
 	}
 
@@ -29,13 +29,13 @@
 		margin: 0 auto 15px;
 	}
 
-	.prcf_header_ps {
+	.prcf_header_p {
 		margin: 10px auto 10px;
 	}
 
 /* Middles */
 
-	.prcf_form_middle {
+	.prcf_middles {
 		padding: 0 0 0 0;
 	}
 
@@ -66,7 +66,7 @@
 
 /* Footers */
 
-	#prcf_form_footer {
+	#prcf_footers {
 		padding: 25px 0 0 0;
 	}
 
@@ -78,6 +78,10 @@
 		background-color: green;
 		font-weight: bold;
 		color: #fff;
+	}
+
+	.prcf_finalization_buttons a {
+		display: block;
 	}
 
 	.prcf_finalization_buttons:focus {
