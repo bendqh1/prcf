@@ -20,7 +20,7 @@
 			</div>
 
 			<div class="prcf_success_footer">
-				<a href="https://example.com" class="prcf_finalization_buttons">חזרה לדף הבית</a>
+				<a href="https://example.com" id="prcf_homepage" class="prcf_finalization_buttons">חזרה לדף הבית</a>
 			</div>
 		</div>
 	</body>
