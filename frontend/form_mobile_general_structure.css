@@ -1,6 +1,6 @@
 /*Global*/
 
-#prcf_container {
+.prcf_container {
   display: flex;
   flex-direction: column;
   padding: 25px;
