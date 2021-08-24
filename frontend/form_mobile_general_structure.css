@@ -1,12 +1,9 @@
 /*Global*/
 
-#prcf_form_child {
+#prcf_container {
   display: flex;
   flex-direction: column;
   padding: 25px;
-}
-
-.prcf_general_structure {
   margin: 0 auto 0;
   border: 2px solid #000;
   border-radius: 25px;
