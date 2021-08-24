@@ -2,7 +2,7 @@
     echo $html = <<<HTML
         <div class="prcf_form_middle_2">
         <div class="flex_child_right">
-                <span><label for="prcf_input_email" id="prcf_label_email" class="prcf_label">כתובת אימייל</label></span><span class="required">*</span>
+                <span><label for="prcf_input_email" id="prcf_label_email" class="prcf_label">כתובת אימייל</label></span><span class="prcf_required">*</span>
                 <input type="email" dir="ltr" name="email" id="prcf_input_email" class="prcf_item" required></input>
                 <!-- required property-->
             </div>
