@@ -7,9 +7,11 @@
 	</head>
 	<body>
 		<div class="generally_every_field">
-			<b>הודעתך נשלחה בהצלחה</b>.<br>
-			תודה על התעניינות לעבוד עימי,<br>
-			לכל פנייה המצריכה את תגובתי אשתדל להשיב בהקדם האפשרי.
+			<?php
+				include '1_form_header.php';
+				include '1_form_middle.php';
+				include '1_form_footer.php';
+			?>
 		</div>
 	</body>
 </html>
