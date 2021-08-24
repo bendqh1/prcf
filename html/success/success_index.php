@@ -6,7 +6,7 @@
 		?>
 	</head>
 	<body>
-		<div dir="rtl" lang="he" class=".prcf_container">
+		<div dir="rtl" lang="he" class="prcf_container">
 			<div id="prcf_success_header">
 				<h2 class="prcf_header_headings">הודעתך נשלחה בהצלחה</h2>
 			</div>
