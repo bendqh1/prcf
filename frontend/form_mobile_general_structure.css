@@ -10,7 +10,7 @@
   font-size: 1em;
 }
 
-.prcf_generally_any_field {
+.prcf_item {
   width: 100%;
   margin: 10px 0 10px 0;
   padding: 5px 10px 5px 10px;
@@ -19,15 +19,15 @@
   border-radius: 25px;
 }
 
-.prcf_general_structure label {
+.prcf_item label {
   font-weight: bold;
 }
 
-.prcf_general_structure label:after {
+.prcf_item:after {
   content:":";
 }
 
-.prcf_general_structure .required {
+.prcf_item .required {
   color: red;
 }
 
