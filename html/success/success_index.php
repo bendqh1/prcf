@@ -7,19 +7,19 @@
 	</head>
 	<body>
 		<div dir="rtl" lang="he" class="prcf_container">
-			<div id="prcf_success_header">
+			<div class="prcf_headers">
 				<h2 class="prcf_header_headings">הודעתך נשלחה בהצלחה</h2>
 			</div>
 
-			<div id="prcf_success_middle">
-				<p class="prcf_header_ps">
+			<div class="prcf_middles">
+				<p class="prcf_header_p">
 					תודה על התעניינות לעבוד עימי,<br>
 					לכל פנייה המצריכה את תגובתי אשתדל להשיב בהקדם האפשרי,<br>
 					אוסי,
 				</p>
 			</div>
 
-			<div class="prcf_success_footer">
+			<div class="prcf_footers">
 				<a href="https://example.com" id="prcf_homepage" class="prcf_finalization_buttons">חזרה לדף הבית</a>
 			</div>
 		</div>
