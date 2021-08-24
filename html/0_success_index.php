@@ -6,7 +6,7 @@
 		?>
 	</head>
 	<body>
-		<div class="generally_every_field">
+		<div dir="rtl" class="generally_any_field">
 			<?php
 				include '1_success_header.php';
 				include '1_success_middle.php';
