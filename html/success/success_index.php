@@ -2,7 +2,7 @@
 	<head>
 		<title>יצירת קשר:הצלחה</title>
 		<?php
-			include 'variables.php';
+			include '../misc/assets.php';
 		?>
 	</head>
 	<body>
