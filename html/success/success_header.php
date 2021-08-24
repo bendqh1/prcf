@@ -1,5 +1,3 @@
 <div id="prcf_success_header">
-	<?php
-		echo '<h2>הודעתך נשלחה בהצלחה</h2>';
-	?>
+	<h2 .prcf_header_headings>הודעתך נשלחה בהצלחה</h2>
 </div>
