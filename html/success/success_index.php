@@ -15,12 +15,14 @@
 				<p class="prcf_header_ps">
 					תודה על התעניינות לעבוד עימי,<br>
 					לכל פנייה המצריכה את תגובתי אשתדל להשיב בהקדם האפשרי,<br>
-					אוסי.
+					אוסי,
 				</p>
 			</div>
 
 			<div id="prcf_success_footer">
-				<a href="https://example.com" id="prcf_homepage">חזרה לדף הבית</a>
+				<ul>
+					<li><a href="https://example.com" id="prcf_homepage">חזרה לדף הבית</a></li>
+				</ul>
 			</div>
 		</div>
 	</body>
