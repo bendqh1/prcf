@@ -6,7 +6,7 @@
 		?>
 	</head>
 	<body>
-		<div dir="rtl" class="prcf_container">
+		<div dir="rtl" lang="he" class="prcf_container">
 			<?php
 				include '1_success_header.php';
 				include '1_success_middle.php';
