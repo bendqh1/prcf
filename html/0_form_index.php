@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<form dir="rtl" lang="he" action="../backend/contact_form.php" method="POST">
-			<div id="prcf_container">
+			<div class="prcf_container">
 				<?php
 					include '1_form_header.php';
 					include '1_form_middle.php';
