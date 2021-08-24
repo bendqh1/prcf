@@ -1,4 +1,4 @@
-/*Global*/
+/* Globals */
 
 	.prcf_container {
 		display: flex;
@@ -19,7 +19,7 @@
 		border-radius: 25px;
 	}
 
-/*Header*/
+/* Headers */
 
 	#prcf_form_header {
 		padding: 0 0 25px 0;
@@ -33,7 +33,7 @@
 		margin: 10px auto 10px;
 	}
 
-/*Middle*/
+/* Middles */
 
 	.prcf_form_middle {
 		padding: 0 0 0 0;
@@ -64,7 +64,7 @@
 		margin: 10px 0 10px 0;
 	}
 
-/*Footer*/
+/* Footers */
 
 	#prcf_form_footer {
 		padding: 25px 0 0 0;
@@ -94,7 +94,7 @@
 		color: #fff;
 	}
 
-/*Miscellaneous*/
+/* Miscellaneous */
 
 	#prcf_homepage {
 		margin: 0 auto;
