@@ -19,8 +19,8 @@
 				</p>
 			</div>
 
-			<div class="prcf_finalization_buttons">
-				<a href="https://example.com" id="prcf_homepage">חזרה לדף הבית</a>
+			<div class="prcf_success_footer">
+				<a href="https://example.com" class="prcf_finalization_buttons">חזרה לדף הבית</a>
 			</div>
 		</div>
 	</body>
