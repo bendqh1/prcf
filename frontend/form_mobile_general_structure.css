@@ -95,3 +95,7 @@
 		background-color: green;
 		color: #fff;
 	}
+
+	#prcf_submit, #prcf_homepage {
+		box-sizing: border-box;
+	}
