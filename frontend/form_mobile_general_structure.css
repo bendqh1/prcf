@@ -62,6 +62,7 @@
 
 	#prcf_input_date, #prcf_input_time {
 		margin: 10px 0 10px 0;
+		padding-left: 5px; /* RTL border-on-top-of-value fix */
 	}
 
 /* Footers */
