@@ -7,7 +7,7 @@ A CMS-agnostic backend-frontend simple contact form for one recpient which is ai
 This program requires:
 
 * A well configured *DNS records hosting*
-* A well configured *websites hosting* 
+* A well configured *website hosting* 
 * A well configured *website emails hosting* comprised by itself of:
   * Local Email Server (**LES**) such as *Postfix*
   * Local Email Protocoler (**LEP**) such as *Dovecot*
