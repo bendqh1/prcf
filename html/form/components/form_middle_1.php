@@ -7,7 +7,7 @@
     <div class="flex_child_left">
         <span><label for="prcf_input_topic" id="prcf_label_topic" class="prcf_label">פנייה בנושא</label></span><span class="prcf_required">*</span>
         <select name="topic" id="prcf_input_topic" class="prcf_item">
-            <option value="שיעור פרטי">שיעור פרטי</option>
+            <option value="הדרכה וייעוץ">הדרכה וייעוץ</option>
             <option value="אחר">אחר</option>
         </select> <!-- required property-->
     </div>
